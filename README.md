@@ -58,8 +58,8 @@ Please keep the following in mind:
 Thanks for your help in making Staff Appraisal System better!
 
 ## Important
-To run this application as soon as the system or pi3 boots up.. install pm3.
-It as a node package for running the file automatically after booting up of OS(Rasbian). Through pm2 we can also specify time for every reboot.
+This application in compatible to run in `Windows`, `Linux`, `OSX` .
+To install all the dependencies required for this application run the following command: `npm install && npm start` 
 
 > ~ Debashish Choudhury
 > ~ Utkarsh Naik
