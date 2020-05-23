@@ -1,11 +1,11 @@
-**Staff Appraisal System** is an open source application. With a growing list of installable modules, the **appraisal system** allows faculty to self assess themselfs and give their report to the higher authority in this case it will be the HoD. **Staff appraisal system** is built by:
-- Debashish Choudhury (http://github.com/deb1398)
-- Utkarsh Naik (https://github.com/utkarsh17naik)
-- Anagha Devade (https://github.com/adevade16)
+**Staff Appraisal System** is an open source application. With a growing list of installable modules, the **appraisal system** allows faculty to self assess themselfs and give their report to the higher authority in this case it will be the **HoD**. Super user **Manager** can create and view all the users like HoD and Faculties. Manager have access to a graphical representation of faculties showing progress over the years. **Staff appraisal system** is built by:
+- **Debashish Choudhury** (http://github.com/deb1398)
+- **Utkarsh Naik** (https://github.com/utkarsh17naik)
+- **Anagha Devade** (https://github.com/adevade16)
 
 Under the guidance of:
-- Anagha Aher
-- Vishal Badgujar (https://github.com/vishal003)
+- **Anagha Aher**
+- **Vishal Badgujar** (https://github.com/vishal003)
 
 Staff Appraisal System focuses on a modular plugin system and uses NodeJs for server side script, Hbs tamplate engine along with MongoDB to store data.
 
