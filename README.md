@@ -31,6 +31,18 @@ DBPASS = // Enter your mongodb user password
 PASSWD is required for password reset. A mail will be sent to user for password reset link. This mail will be sent by the Organization's email id, hence password is required.
 
 
+
+## IEEE Paper Publications
+
+### 1) VIT Vellore.
+First paper was selected in **VIT Vellore** of the topic *Study on Feasibility of Uniform Appraisal System*. Here is the link of the paper published:
+`https://ieeexplore.ieee.org/document/9077847`
+
+### 2) Sri Eshwar College of Engineering, Coimbatore.
+Second paper was selected in **Sri Eshwar College of Engineering, Coimbatore** of the topic *Study on Semi Automation in Uniform Faculty Appraisal System*. Here is the link of the paper published:
+`https://ieeexplore.ieee.org/document/9074383`
+
+
 ## Configuration
 
 ### General
